@@ -23,12 +23,6 @@
 * Learn more vanilla Javascript with [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * Learn how to extract [form-behavior](http://railscasts.com/episodes/416-form-objects) out into it's own class in Rails.
 * Refactor rails using [Concerns and Service Objects](http://railscasts.com/episodes/398-service-objects).
-* Editing [multiple records](http://railscasts.com/episodes/165-edit-multiple-revised) at once with rails. 
-
-## Brainstorm Ideas - require further research
-* typescript
-* window management
-* aws cloud
-* typescript
-* prototypical
-* rails cast
+* Editing [multiple records](http://railscasts.com/episodes/165-edit-multiple-revised) at once with rails.
+* Read more about [Javascript Inheritance](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9) and the [Prototype Chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
+* Finish readinf the Well-Grounded Rubyist and Javascript the Good Parts.
