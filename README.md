@@ -7,7 +7,7 @@
 ## Actionable Items:
 
 * Deploy Portfolio to Heroku with Amazon S3 bucket for storage.
-* Learn about the Binding Class and procs and lambas in Ruby.
+* Learn about [procs and lambas](https://scotch.io/tutorials/understanding-ruby-closures) in Ruby.
 * Practice whiteboarding by solving FreeCode camp and Project Euler problems in Javascript.
 * Use [Sketch](https://www.sketchapp.com/) to design pages for at least one project in the next month.
 * Implement a basic [parallax scrolling](https://1stwebdesigner.com/parallax-scrolling-tutorial/) effect in one project this month.  
@@ -20,17 +20,15 @@
 * Read/work through two other repos listed on the [Awesome Data Science with Ruby](https://github.com/arbox/data-science-with-ruby) repo.
 * Work through the [Edgecase with Ruby Koans](http://rubykoans.com/).
 * Learn more about [functional programming](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/) with javascript.
-* Learn more about vanilla Javascript with [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* Learn more vanilla Javascript with [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* Learn how to extract [form-behavior](http://railscasts.com/episodes/416-form-objects) out into it's own class in Rails.
+* Refactor rails using [Concerns and Service Objects](http://railscasts.com/episodes/398-service-objects).
+* Editing [multiple records](http://railscasts.com/episodes/165-edit-multiple-revised) at once with rails. 
 
 ## Brainstorm Ideas - require further research
-* native vanilla javascript
-* classical programming
 * typescript
 * window management
 * aws cloud
 * typescript
 * prototypical
-* classical programming
-* Javascript classes use classical inheritance which is a pattern breaker for...
-* rails koans
 * rails cast
