@@ -34,3 +34,6 @@
 * Learn more about [functional programming](https://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/) with javascript.
 * Learn about Amazon 3 bucket storage.
 * Learn about D3 Data-Driven Documents.
+
+## Summary of goals
+My highest priority post-epicodus goals are to complete and deploy my capstone project and portfolio. I would also like to focus on solidifying my knowledge of Javascript and Ruby by reading the books listed and practicing whiteboarding problems to prep for job interviews. I want to explore more specific areas listed in my medium-priority and low-priority goals by going through rails-cast, ruby, and javascript tutorials. Right now I am interested in learning about ETL data migrations, Rails refactoring for forms, and using service objects. I am going to continue learning more about Javascript and Ruby on Rails.  As a lower-priority item, I would like to begin learning React-Redux. 
