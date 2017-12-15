@@ -12,6 +12,8 @@
 * Use Sketch to design pages for at least one project in the next month.
 * Implement a basic parallax scrolling effect in one project this month.  
 * Create a react front-end to communicate with Travel-Api.
+* Complete two visual regression tutorials from CSS tricks using PhantomJS, CasperJS, ResembleJS, and BackstopJS.
+* Contribute to two open source issues on Github. Example - create a use cases directory (Ruby), Add a Twitter follow button (JS)
 
 ## Brainstorm Ideas - require further research
 * Contribute to open source project on Github.
@@ -19,9 +21,6 @@
 * React app
 * ETL data transfers
 * native vanilla javascript
-* functional programming
-* use jquery to add an element or add a Class
-* add basic DOM elements
 * functional programming
 * classical programming
 * typescript
@@ -33,4 +32,3 @@
 * Javascript classes use classical inheritance which is a pattern breaker for...
 * rails koans
 * rails cast
-* visual regression testing
