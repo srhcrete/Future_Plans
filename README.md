@@ -14,11 +14,13 @@
 * Create a react front-end to communicate with Travel-Api.
 * Complete two visual regression tutorials from CSS tricks using PhantomJS, CasperJS, ResembleJS, and BackstopJS.
 * Contribute to two open source issues on Github. Example - create a use cases directory (Ruby), Add a Twitter follow button (JS)
+* Complete Udemy React-Redux course
+* Read and work through AWS big data blog about big data workflow - ETL Processing using AWS Data Pipeline and Amazon Elastic MapReduce
+* Read and try to work through basic documentation for the kiba gem, a lightweight ETL for Ruby.
+* Complete two tutorials on the Awesome Data Science with Ruby repo.
+*  
 
 ## Brainstorm Ideas - require further research
-* Contribute to open source project on Github.
-* Coffeescript
-* React app
 * ETL data transfers
 * native vanilla javascript
 * functional programming
